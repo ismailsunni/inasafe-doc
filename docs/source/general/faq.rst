@@ -84,7 +84,7 @@ Convert to other formats using mencoder, e.g
    mencoder -idx yogya_analysis-6.ogv -ovc lavc -oac lavc -lavcopts \
    vcodec=mpeg4:vpass=1 -of lavf -o yogya_analysis.avi
 
-or
+or to other format
 ::
 
    mencoder -idx yogya_analysis-6.ogv -ovc lavc -oac lavc -lavcopts \
